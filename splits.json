@@ -1,0 +1,20 @@
+{
+  "timezone": "UTC",
+  "boundary_convention": "start inclusive, end exclusive",
+  "regions": [
+    "CISO",
+    "ERCO"
+  ],
+  "train": {
+    "start": "2019-01-01",
+    "end": "2023-01-01"
+  },
+  "validation": {
+    "start": "2023-01-01",
+    "end": "2024-01-01"
+  },
+  "test": {
+    "start": "2024-01-01",
+    "end": "2026-01-01"
+  }
+}
